@@ -948,7 +948,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Enderun Sanal Tur",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
