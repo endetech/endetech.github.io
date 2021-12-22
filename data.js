@@ -795,6 +795,12 @@ var APP_DATA = {
           "pitch": 0.34481330247116837,
           "rotation": 0,
           "target": "14-3kat"
+        },
+        {
+          "yaw": 3.5107858733979593,
+          "pitch": 0.24481330247116837,
+          "rotation": 0,
+          "target": "18-5kat"
         }
       ],
       "infoHotspots": []
@@ -948,7 +954,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Enderun Sanal Tur",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
