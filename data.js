@@ -919,8 +919,17 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": []
+      "linkHotspots": [
+        {
+          "yaw": -1.29,
+          "pitch": 0.2,
+          "rotation": 0,
+          "target": "18-5kat"
+        }
+      ],
+      "infoHotspots": [
+        
+      ]
     },
     {
       "id": "21-kantin",
@@ -950,11 +959,20 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": []
+      "linkHotspots": [
+        {
+          "yaw": -0.24,
+          "pitch": 0.3218211080310308,
+          "rotation": 0,
+          "target": "18-5kat"
+        }
+      ],
+      "infoHotspots": [
+        
+      ]
     }
   ],
-  "name": "Project Title",
+  "name": "Enderun Sanal Tur",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
